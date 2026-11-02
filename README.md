@@ -74,8 +74,3 @@ Use the supplied context for page checks and module behavior. Every JavaScript f
 ## License
 
 [GPL-3.0](LICENSE)
-
-## AI Disclosure
-
-GitHub Copilot was occasionally used for IntelliSense and inline suggestions during development.
-Migration to bundlemonkey mostly done by AI.
